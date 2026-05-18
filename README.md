@@ -27,15 +27,15 @@ O site apresenta informações sobre atendimentos, experiências, preços, depoi
 
 ## 🛠️ Tecnologias utilizadas
 
--HTML5
+- HTML5
 
--CSS3
+- CSS3
 
--Google Maps Embed
+- Google Maps Embed
 
--FormSubmit
+- FormSubmit
 
--Elfsight Widget
+- Elfsight Widget
 
 
 
@@ -43,9 +43,9 @@ O site apresenta informações sobre atendimentos, experiências, preços, depoi
 O projeto foi desenvolvido com media queries para funcionar corretamente em:
 
 -Smartphones
--Tablets
--Notebooks
--Monitores maiores
+- Tablets
+- Notebooks
+- Monitores maiores
 
 
 
@@ -64,18 +64,18 @@ A identidade visual foi construída utilizando tons suaves e acolhedores:
  └── README.md
  
 ## 🧩 Sessões do Site
--🏠 Header
+- 🏠 Header
 Imagem principal com frase de impacto e botão para agendamento.
--👩‍⚕️ Sobre
+- 👩‍⚕️ Sobre
 Apresentação profissional da psicóloga e abordagem clínica.
--💼 Experiências
+- 💼 Experiências
 Cards informativos sobre os tipos de atendimento.
 
 ## 📌 Melhorias futuras
--Dark mode
--Animações suaves
--Backend para agendamentos
--Sistema de login
--Integração com WhatsApp
+- Dark mode
+- Animações suaves
+- Backend para agendamentos
+- Sistema de login
+- Integração com WhatsApp
 CMS para editar conteúdos
 
