@@ -4,78 +4,78 @@ O site apresenta informações sobre atendimentos, experiências, preços, depoi
 
 ## ✨ Funcionalidades
 
--- ✅ Landing page moderna e responsiva
+- ✅ Landing page moderna e responsiva
 
- -- ✅ Menu de navegação com scroll suave
+- ✅ Menu de navegação com scroll suave
 
--- ✅ Header com chamada principal
+- ✅ Header com chamada principal
 
--- ✅ Sessão “Sobre”
+- ✅ Sessão “Sobre”
 
--- ✅ Cards de experiências e especialidades
+- ✅ Cards de experiências e especialidades
 
--- ✅ Tabela de preços estilizada
+- ✅ Tabela de preços estilizada
 
---✅ Sessão de depoimentos
+- ✅ Sessão de depoimentos
 
---✅ Formulário de contato funcional
+- ✅ Formulário de contato funcional
 
---✅ Integração com Google Maps
+- ✅ Integração com Google Maps
 
---✅ Layout adaptado para dispositivos móveis
-
-
-##🛠️ Tecnologias utilizadas
-
---HTML5
-
---CSS3
-
---Google Maps Embed
-
---FormSubmit
-
---Elfsight Widget
+- ✅ Layout adaptado para dispositivos móveis
 
 
+## 🛠️ Tecnologias utilizadas
 
-##📱 Responsividade
+-HTML5
+
+-CSS3
+
+-Google Maps Embed
+
+-FormSubmit
+
+-Elfsight Widget
+
+
+
+## 📱 Responsividade
 O projeto foi desenvolvido com media queries para funcionar corretamente em:
 
---Smartphones
---Tablets
---Notebooks
---Monitores maiores
+-Smartphones
+-Tablets
+-Notebooks
+-Monitores maiores
 
 
 
-##🎨 Design
+## 🎨 Design
 A identidade visual foi construída utilizando tons suaves e acolhedores:
 
---Verde escuro
---Bege claro
---Branco
---Sombras suaves e bordas arredondadas
+-Verde escuro
+-Bege claro
+-Branco
+-Sombras suaves e bordas arredondadas
 
-##📁 psicologa
+## 📁 psicologa
  ├── 📁 img
  ├── index.html
  ├── style.css
  └── README.md
  
-##🧩 Sessões do Site
---🏠 Header
+## 🧩 Sessões do Site
+-🏠 Header
 Imagem principal com frase de impacto e botão para agendamento.
---👩‍⚕️ Sobre
+-👩‍⚕️ Sobre
 Apresentação profissional da psicóloga e abordagem clínica.
---💼 Experiências
+-💼 Experiências
 Cards informativos sobre os tipos de atendimento.
 
-##📌 Melhorias futuras
---Dark mode
---Animações suaves
---Backend para agendamentos
---Sistema de login
---Integração com WhatsApp
+## 📌 Melhorias futuras
+-Dark mode
+-Animações suaves
+-Backend para agendamentos
+-Sistema de login
+-Integração com WhatsApp
 CMS para editar conteúdos
 
