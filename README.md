@@ -1,4 +1,4 @@
-##🧠 Landing Page - Psicóloga
+#🧠 Landing Page - Psicóloga
 Projeto de uma landing page profissional para psicóloga clínica, desenvolvido com foco em acolhimento, elegância e responsividade.
 O site apresenta informações sobre atendimentos, experiências, preços, depoimentos, formulário de contato e localização.
 
